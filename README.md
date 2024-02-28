@@ -23,7 +23,7 @@ TTO acts as a bridge between these two systems, allowing users to maximize the b
 -Move TTO.xml and TTO-BFM.xml to the opened directory.
 
 3. Using the TTO Program
-- Download the latest version of the TTO program.
+- Download the latest version of the TTO program from: https://github.com/trackirtoopentrack/trackir-to-opentrack/releases
 - Follow the instructions.
 - Note that at the moment, the program is available only to users with a Google account.
 
@@ -55,6 +55,6 @@ TTO служит мостом между этими двумя системам�
 - Перенесите в открывшийся каталог TTO.xml и TTO-BFM.xml.
 
 3. Использование программы TTO
-- Загрузите последнюю версию программы TTO.
+- Загрузите последнюю версию программы TTO: https://github.com/trackirtoopentrack/trackir-to-opentrack/releases
 - Следуйте инструкциям.
 - Обратите внимание, что на данный момент программа доступна только для пользователей с Google аккаунтом.
