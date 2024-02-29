@@ -10,14 +10,14 @@ TTO acts as a bridge between these two systems, allowing users to maximize the b
 
 ## Instruction
 
-1. Installing Profiles for O2
+1. Installing Profiles for Opentrack
 - Download the TTO-EWMA.ini file from the official website or the provided source.
-- Open the O2 program.
+- Open the Opentrack program.
 - Go to the 'Profile' / 'Open configuration directory' section.
 - Place the downloaded TTO-EWMA.ini file in the opened directory.
 
-2. Installing Profiles for T1
-- Download the profiles for T1: TTO.xml or TTO-BFM.xml.
+2. Installing Profiles for TrackIR5
+- Download the profiles for TrackIR5: TTO.xml or TTO-BFM.xml.
 - On Windows, press the Start menu.
 - Type %appdata%. In the Roaming folder, select NaturalPoint / TrackIR5 / Profiles.
 -Move TTO.xml and TTO-BFM.xml to the opened directory.
@@ -42,14 +42,14 @@ TTO служит мостом между этими двумя системам�
 
 ## Инструкции
 
-1. Установка профилей для O2
+1. Установка профилей для Opentrack
 - Скачайте файл TTO-EWMA.ini с официального сайта или из предоставленного источника.
-- Откройте программу O2.
+- Откройте программу Opentrack.
 - Перейдите в раздел Profile / Open configuration directory.
 - Разместите скачанный файл TTO-EWMA.ini в открывшемся каталоге.
 
-2. Установка профилей для T1
-- Скачайте профили для T1: TTO.xml или TTO-BFM.xml.
+2. Установка профилей для TrackIR5
+- Скачайте профили для TrackIR5: TTO.xml или TTO-BFM.xml.
 - В Windows нажмите на меню Start.
 - Напишите %appdata%. В папке Roaming выберите NaturalPoint / TrackIR5 / Profiles.
 - Перенесите в открывшийся каталог TTO.xml и TTO-BFM.xml.
